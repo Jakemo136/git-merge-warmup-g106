@@ -1,3 +1,6 @@
+
+If it bleeds - we can kill it.
+
 About Justin:
 Pretty neat fella. Sweet beard, even sweeter scooter.
 Has 2 kids and a wife. Lives on the internet.
@@ -19,4 +22,7 @@ function aboutMe = (name = Jake) => {}
 Crap. Not javascript either.
 </About>
 
+<<<<<<< HEAD
 Still 34. Still taking life one day at a time!
+=======
+>>>>>>> c413a09446f44f0996eff01c3140240b4078c0ec
