@@ -1,1 +1,24 @@
+
 If it bleeds - we can kill it.
+
+About Justin:
+Pretty neat fella. Sweet beard, even sweeter scooter.
+Has 2 kids and a wife. Lives on the internet.
+
+
+<About for="Jake">
+wait. This isn't HTML.
+
+function aboutMe = (name = Jake) => {}
+  let dedz = 100
+  for (let age = 34; age <= Math.ciel(Math.random()*200)); age++) {
+    if (age < dedz) {
+      echo "Birthday Spree! You are " + age + " years old!"
+    } else if (age === dedz) {
+      echo "Yor dedz! Poor " + name
+    }
+  }
+}
+Crap. Not javascript either.
+</About>
+
